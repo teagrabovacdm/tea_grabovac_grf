@@ -1,0 +1,21 @@
+
+.slike img {
+    width: 20%;           
+    height: auto;
+    
+}
+.slike{
+    background-color: rgb(209, 192, 195);
+    
+}
+body{
+    text-align: center;
+    background-color: rgba(207, 163, 80, 0.565);
+
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    
+}
